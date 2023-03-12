@@ -1,0 +1,2 @@
+// Ignore these file paths while pushing to the git.
+.env
