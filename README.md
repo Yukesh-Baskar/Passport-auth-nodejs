@@ -1,6 +1,6 @@
-# Table of contents
-[Scope] #Scope
-[Passport-auth-nodejs] #Passport-auth-nodejs
+## Table of contents
+- [Scope] #Scope
+- [Passport-auth-nodejs] #Passport-auth-nodejs
 
 # Passport-auth-nodejs
 This repo contains passport authentications.
